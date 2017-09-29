@@ -1,0 +1,377 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "1bK29RcAjCAMCYS2HS3O18w4m8k=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/cihub/seelog",
+			"path": "github.com/cihub/seelog",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "iMU6SM/jawaCOJnyvR5/w8C/C1w=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/cihub/seelog/archive",
+			"path": "github.com/cihub/seelog/archive",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "oSd7EVei192qS3uYyCAMx9zV3Y8=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/cihub/seelog/archive/gzip",
+			"path": "github.com/cihub/seelog/archive/gzip",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "emesF9mCsIQC59VUE2lvjZYpAHU=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/cihub/seelog/archive/tar",
+			"path": "github.com/cihub/seelog/archive/tar",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "TXLSkZsRlMifg3mg9+6QgEZJ6m4=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/cihub/seelog/archive/zip",
+			"path": "github.com/cihub/seelog/archive/zip",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "imR2wF388/0fBU6RRWx8RvTi8Q8=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/facebookgo/clock",
+			"path": "github.com/facebookgo/clock",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "2Jy8ibzL8kHuenZI0LAvCLI1e98=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/facebookgo/grace/gracehttp",
+			"path": "github.com/facebookgo/grace/gracehttp",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "nj3ykV8Em7WOfvHNIo/XNTT9LOM=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/facebookgo/grace/gracenet",
+			"path": "github.com/facebookgo/grace/gracenet",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "8SgB/r3Cf+OvXmg8bIPnlEq03Bs=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/facebookgo/httpdown",
+			"path": "github.com/facebookgo/httpdown",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "SzXvrWxavFo8HD/2hnbdu17C3VE=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/facebookgo/stats",
+			"path": "github.com/facebookgo/stats",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "x2Km0Qy3WgJJnV19Zv25VwTJcBM=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/fsnotify/fsnotify",
+			"path": "github.com/fsnotify/fsnotify",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "QeKwBtN2df+j+4stw3bQJ6yO4EY=",
+			"path": "github.com/gin-contrib/sse",
+			"revision": "22d885f9ecc78bf4ee5d72b937e4bbcdc58e8cae",
+			"revisionTime": "2017-01-09T09:34:21Z"
+		},
+		{
+			"checksumSHA1": "0x6Wfp8Qfp+GXloOXb3Y7LtKomw=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "7fafb3f4a177ca92821dc5bf6e59f17e5f130588",
+			"revisionTime": "2017-07-28T00:50:58Z"
+		},
+		{
+			"checksumSHA1": "qqjlx9qLgTw1+t6uDDTBlCmT6DQ=",
+			"path": "github.com/gin-gonic/gin/binding",
+			"revision": "7fafb3f4a177ca92821dc5bf6e59f17e5f130588",
+			"revisionTime": "2017-07-28T00:50:58Z"
+		},
+		{
+			"checksumSHA1": "YOwO5bkv3ei+GTVZqeEVB30kXDM=",
+			"path": "github.com/gin-gonic/gin/json",
+			"revision": "7fafb3f4a177ca92821dc5bf6e59f17e5f130588",
+			"revisionTime": "2017-07-28T00:50:58Z"
+		},
+		{
+			"checksumSHA1": "MwAJrZRDZoQ7CK2Q+T1sBbx6tC0=",
+			"path": "github.com/gin-gonic/gin/render",
+			"revision": "7fafb3f4a177ca92821dc5bf6e59f17e5f130588",
+			"revisionTime": "2017-07-28T00:50:58Z"
+		},
+		{
+			"checksumSHA1": "/A5P2s8crcwfDyqHKCh16Yt9jd4=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/go-sql-driver/mysql",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "yqF125xVSkmfLpIVGrLlfE05IUk=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "748d386b5c1ea99658fd69fe9f03991ce86a90c1",
+			"revisionTime": "2017-07-26T21:28:29Z"
+		},
+		{
+			"checksumSHA1": "Ok3Csn6Voou7pQT6Dv2mkwpqFtw=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/hashicorp/hcl",
+			"path": "github.com/hashicorp/hcl",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "XQmjDva9JCGGkIecOgwtBEMCJhU=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/hashicorp/hcl/hcl/ast",
+			"path": "github.com/hashicorp/hcl/hcl/ast",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "MGYzZActhzSs9AnCx3wrEYVbKFg=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/hashicorp/hcl/hcl/parser",
+			"path": "github.com/hashicorp/hcl/hcl/parser",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "z6wdP4mRw4GVjShkNHDaOWkbxS0=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/hashicorp/hcl/hcl/scanner",
+			"path": "github.com/hashicorp/hcl/hcl/scanner",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "oS3SCN9Wd6D8/LG0Yx1fu84a7gI=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/hashicorp/hcl/hcl/strconv",
+			"path": "github.com/hashicorp/hcl/hcl/strconv",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "c6yprzj06ASwCo18TtbbNNBHljA=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/hashicorp/hcl/hcl/token",
+			"path": "github.com/hashicorp/hcl/hcl/token",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "PwlfXt7mFS8UYzWxOK5DOq0yxS0=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/hashicorp/hcl/json/parser",
+			"path": "github.com/hashicorp/hcl/json/parser",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "YdvFsNOMSWMLnY6fcliWQa0O5Fw=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/hashicorp/hcl/json/scanner",
+			"path": "github.com/hashicorp/hcl/json/scanner",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "fNlXQCQEnb+B3k5UDL/r15xtSJY=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/hashicorp/hcl/json/token",
+			"path": "github.com/hashicorp/hcl/json/token",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "hA3pKaCPscFk4oqNUPUTYJrm14w=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/jinzhu/gorm",
+			"path": "github.com/jinzhu/gorm",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "VIp1lZm6joWhlNdwhady8u//qRw=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/jinzhu/inflection",
+			"path": "github.com/jinzhu/inflection",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "bVblvxjXM6xs+yx9CcRtDqINZlo=",
+			"path": "github.com/json-iterator/go",
+			"revision": "2dc0031b26575ddf5dab09ab7795105a05575473",
+			"revisionTime": "2017-08-25T04:53:23Z"
+		},
+		{
+			"checksumSHA1": "UvboqgDDSAbGORdtr5tBpkwYR0A=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/magiconair/properties",
+			"path": "github.com/magiconair/properties",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "U6lX43KDDlNOn+Z0Yyww+ZzHfFo=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "fc9e8d8ef48496124e79ae0df75490096eccf6fe",
+			"revisionTime": "2017-03-22T23:44:13Z"
+		},
+		{
+			"checksumSHA1": "c1JIqjo91nD1RMFImnW69n8jtj8=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/mitchellh/mapstructure",
+			"path": "github.com/mitchellh/mapstructure",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "zZg0J0MqvnqXVYo644QDvnUinrc=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/pelletier/go-toml",
+			"path": "github.com/pelletier/go-toml",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "agRD6C2+r2orj9e4JcvtJvmjmHs=",
+			"path": "github.com/penguinn/penguin/component/config",
+			"revision": "454cb32c99345ebed6809cab20f9de6b65acc2e4",
+			"revisionTime": "2017-09-22T09:16:31Z"
+		},
+		{
+			"checksumSHA1": "bWDfm5rFz8cmhKrlPYWZaRhaP6c=",
+			"path": "github.com/penguinn/penguin/component/controller",
+			"revision": "454cb32c99345ebed6809cab20f9de6b65acc2e4",
+			"revisionTime": "2017-09-22T09:16:31Z"
+		},
+		{
+			"checksumSHA1": "edhlJ58V6Zz+RioOwhWbB0785LQ=",
+			"path": "github.com/penguinn/penguin/component/db",
+			"revision": "454cb32c99345ebed6809cab20f9de6b65acc2e4",
+			"revisionTime": "2017-09-22T09:16:31Z"
+		},
+		{
+			"checksumSHA1": "OWLjZWf+P6jhcBg7sxTKnMqOZWA=",
+			"path": "github.com/penguinn/penguin/component/log",
+			"revision": "454cb32c99345ebed6809cab20f9de6b65acc2e4",
+			"revisionTime": "2017-09-22T09:16:31Z"
+		},
+		{
+			"checksumSHA1": "n8GHBdgF4A0oH1W7rYK1qCHillw=",
+			"path": "github.com/penguinn/penguin/component/middleware",
+			"revision": "454cb32c99345ebed6809cab20f9de6b65acc2e4",
+			"revisionTime": "2017-09-22T09:16:31Z"
+		},
+		{
+			"checksumSHA1": "0Uu4oVR8xdNxZ4L6XL7ptu5PMWc=",
+			"path": "github.com/penguinn/penguin/component/router",
+			"revision": "454cb32c99345ebed6809cab20f9de6b65acc2e4",
+			"revisionTime": "2017-09-22T09:16:31Z"
+		},
+		{
+			"checksumSHA1": "geO/BxH0HOtKsoLn2S5gPEB6Wow=",
+			"path": "github.com/penguinn/penguin/component/server",
+			"revision": "454cb32c99345ebed6809cab20f9de6b65acc2e4",
+			"revisionTime": "2017-09-22T09:16:31Z"
+		},
+		{
+			"checksumSHA1": "/h3tqccz0tjEEUivjYHHlAiN31w=",
+			"path": "github.com/penguinn/penguin/component/session",
+			"revision": "454cb32c99345ebed6809cab20f9de6b65acc2e4",
+			"revisionTime": "2017-09-22T09:16:31Z"
+		},
+		{
+			"checksumSHA1": "zzRVdEq3hBwxB9dD4ZkNjqizcXE=",
+			"path": "github.com/penguinn/penguin/constants",
+			"revision": "454cb32c99345ebed6809cab20f9de6b65acc2e4",
+			"revisionTime": "2017-09-22T09:16:31Z"
+		},
+		{
+			"checksumSHA1": "sbVYjBW06zyP/N9HbQvpaJIp+ZE=",
+			"path": "github.com/penguinn/penguin/utils",
+			"revision": "454cb32c99345ebed6809cab20f9de6b65acc2e4",
+			"revisionTime": "2017-09-22T09:16:31Z"
+		},
+		{
+			"checksumSHA1": "lBehULzb2/kIK3wZ0gz2yNmHq9s=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/spf13/afero",
+			"path": "github.com/spf13/afero",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "5KRbEQ28dDaQmKwAYTD0if/aEvg=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/spf13/afero/mem",
+			"path": "github.com/spf13/afero/mem",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "Sq0QP4JywTr7UM4hTK1cjCi7jec=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/spf13/cast",
+			"path": "github.com/spf13/cast",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "9pkkhgKp3mwSreiML3plQlQYdLQ=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/spf13/jwalterweatherman",
+			"path": "github.com/spf13/jwalterweatherman",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "i2gYgNcazwBV3RSlE5btIUMjwv0=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/spf13/pflag",
+			"path": "github.com/spf13/pflag",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "QMYYbMeFaLNL/UezRGhNVax5EBg=",
+			"origin": "github.com/penguinn/penguin/vendor/github.com/spf13/viper",
+			"path": "github.com/spf13/viper",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "9Zw986fuQM/hCoVd8vmHoSM+8sU=",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "5efa3251c7f7d05e5d9704a69a984ec9f1386a40",
+			"revisionTime": "2017-06-20T10:48:52Z"
+		},
+		{
+			"checksumSHA1": "oS0UZOGWVVsVciOQ8nZJ582mFF8=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "9ccfe848b9db8435a24c424abbc07a921adf1df5",
+			"revisionTime": "2017-04-27T03:54:25Z"
+		},
+		{
+			"checksumSHA1": "ziMb9+ANGRJSSIuxYdRbA+cDRBQ=",
+			"origin": "github.com/penguinn/penguin/vendor/golang.org/x/text/transform",
+			"path": "golang.org/x/text/transform",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "Anof4bt0AU+Sa3R8Rq0KBnlpbaQ=",
+			"origin": "github.com/penguinn/penguin/vendor/golang.org/x/text/unicode/norm",
+			"path": "golang.org/x/text/unicode/norm",
+			"revision": "443fbc12f667a752363b5da79a2e43fdc3d24c7a",
+			"revisionTime": "2017-09-22T08:15:14Z"
+		},
+		{
+			"checksumSHA1": "P/k5ZGf0lEBgpKgkwy++F7K1PSg=",
+			"path": "gopkg.in/go-playground/validator.v8",
+			"revision": "5f1438d3fca68893a817e4a66806cea46a9e4ebf",
+			"revisionTime": "2017-07-30T05:02:35Z"
+		},
+		{
+			"checksumSHA1": "o20lmjzBQyKD5LfLZ3OhUoMkLds=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "25c4ec802a7d637f88d584ab26798e94ad14c13b",
+			"revisionTime": "2017-07-21T12:20:51Z"
+		}
+	],
+	"rootPath": "github.com/penguinn/penguin-test"
+}

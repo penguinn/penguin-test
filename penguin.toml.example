@@ -1,0 +1,28 @@
+[server]
+addr = ":8080"
+mode = "debug"
+host = "http://127.0.0.1"
+pprof = "true"
+env = "qa"
+origin = ["127.0.0.1"]
+
+[mysql.default]
+driver = "mysql"
+source = "user:password@tcp(ip:port)/database"
+[mysql.default.slave.0]
+source = "user:password@tcp(ip:port)/database"
+[mysql.default.slave.1]
+source = "user:password@tcp(ip:port)/database"
+
+[mongo]
+addresses = ["ip:port"]
+userName = ""
+password = ""
+database = ""
+
+[redis]
+address = "ip:port"
+password = ""
+
+[log]
+file = "./penguin.xml"
