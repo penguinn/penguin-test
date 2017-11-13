@@ -50,7 +50,7 @@ const (
 	TimeFormat        = "15:04:05"
 )
 
-var DefaultMsgFormat = "%Ns [%Level] %Msg%n"
+var DefaultMsgFormat = "%Ns [%LevelID] %Msg%n"
 
 var (
 	DefaultFormatter *formatter
@@ -83,7 +83,7 @@ type FormatterFunc func(message string, level LogLevel, context LogContextInterf
 type FormatterFuncCreator func(param string) FormatterFunc
 
 var formatterFuncs = map[string]FormatterFunc{
-	"Level":     formatterLevel,
+	"LevelID":     formatterLevel,
 	"Lev":       formatterLev,
 	"LEVEL":     formatterLEVEL,
 	"LEV":       formatterLEV,

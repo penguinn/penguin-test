@@ -25,7 +25,7 @@ const (
 	HCI_CHANNEL_CONTROL = 3
 )
 
-// Socketoption Level
+// Socketoption LevelID
 const (
 	SOL_BLUETOOTH = 0x112
 	SOL_HCI       = 0x0

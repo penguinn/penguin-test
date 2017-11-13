@@ -121,9 +121,9 @@ Here is an example config with all these features:
             </filter>
         </outputs>
         <formats>
-            <format id="fmtinfo" format="[%Level] [%Time] %Msg%n"/>
+            <format id="fmtinfo" format="[%LevelID] [%Time] %Msg%n"/>
             <format id="fmterror" format="[%LEVEL] [%Time] [%FuncShort @ %File.%Line] %Msg%n"/>
-            <format id="all" format="[%Level] [%Time] [@ %File.%Line] %Msg%n"/>
+            <format id="all" format="[%LevelID] [%Time] [@ %File.%Line] %Msg%n"/>
             <format id="criticalemail" format="Critical error on our server!\n    %Time %Date %RelFile %Func %Msg \nSent by Seelog"/>
         </formats>
     </seelog>
@@ -151,7 +151,7 @@ the 'main.go' file. So, this is basically a demonstration of configuration of mo
       log.Info("Hello from Seelog!")
 
       consoleWriter, _ := log.NewConsoleWriter()
-      formatter, _ := log.NewFormatter("%Level %Msg %File%n")
+      formatter, _ := log.NewFormatter("%LevelID %Msg %File%n")
       root, _ := log.NewSplitDispatcher(formatter, []interface{}{consoleWriter})
       constraints, _ := log.NewMinMaxConstraints(log.TraceLvl, log.CriticalLvl)
       specificConstraints, _ := log.NewListConstraints([]log.LogLevel{log.InfoLvl, log.ErrorLvl})
